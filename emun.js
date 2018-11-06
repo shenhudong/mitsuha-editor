@@ -1,0 +1,11 @@
+// 手柄名称
+export const HANDLER_MOVE = 'move'
+export const HANDLER_ROTATE = 'rotate'
+export const HANDLER_TOP_LEFT = 'top-left'
+export const HANDLER_TOP_MIDDLE = 'top-middle'
+export const HANDLER_TOP_RIGHT = 'top-right'
+export const HANDLER_BOTTOM_LEFT = 'bottom-left'
+export const HANDLER_BOTTOM_MIDDLE = 'bottom-middle'
+export const HANDLER_BOTTOM_RIGHT = 'bottom-right'
+export const HANDLER_MIDDLE_LEFT = 'middle-left'
+export const HANDLER_MIDDLE_RIGHT = 'middle-right'
